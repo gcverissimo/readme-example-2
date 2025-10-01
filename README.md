@@ -17,4 +17,4 @@
   Some text.
 </details>
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)](https://example.org)
